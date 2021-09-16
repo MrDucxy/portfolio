@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 
+h1, h2, h3, h4, p, a {
+    font-family: Poppins;
+}
+
 .button4 {
     position: relative;
     overflow: hidden;
@@ -51,10 +55,6 @@
 
 body {
     background-color: #141414;
-}
-
-h1, h2, h3, h4, p, a {
-    font-family: Poppins;
 }
 
 #ducxyImg{
@@ -116,6 +116,9 @@ center{
 }
 
 .projectImg{
+    position: absolute;
+    left:0;
+    top:0;
     object-fit: scale-down;
     float: left;
     height: 100%;
