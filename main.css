@@ -142,6 +142,33 @@ center{
     position: absolute;
 }
 
+.firefox{
+    cursor: pointer;
+    width: 137px;
+    background-color: rgb(50,50,50);
+    border-radius: 10px;
+    margin: 10px;
+    bottom: 0px;
+    font-size: 12px;
+    padding: 5px 12px;
+    color: #fff;
+    position: absolute;
+}
+
+.chrome{
+    right: 0px;
+    cursor: pointer;
+    width: 137px;
+    background-color: rgb(50,50,50);
+    border-radius: 10px;
+    margin: 10px;
+    bottom: 0px;
+    font-size: 12px;
+    padding: 5px 12px;
+    color: #fff;
+    position: absolute;
+}
+
 .projectTitle{
     margin-top: 10px;
     margin-bottom: 10px;
